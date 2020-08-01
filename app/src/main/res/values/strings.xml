@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="search">Search</string>
+    <string name="no_search_data">PLease install valid search terms</string>
+
+    <string name="hint_title">Insert Title</string>
+    <string name="hint_author">Insert Author(S)</string>
+    <string name="hint_publisher">Insert Publisher</string>
+    <string name="hint_isbn">Insert ISBN</string>
+    <string name="error_data_message">Error loading data from Google books API</string>
+</resources>
